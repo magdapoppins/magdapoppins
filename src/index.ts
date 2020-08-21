@@ -5,9 +5,12 @@ const main = () => {
     updateReadme();
 };
 
-const getZenText = (zen) => {
-    return `#### Reading the Zen of Python (\`>>> import this\`) 🐍:\n${zen.zen}\n${zen.comment}\n`
-}
+const getZenText = (zen) => `<!-- Zen Widget Start -->
+#### Hourly Zen of Python (\`>>> import this\`) 🐍:
+${zen.zen}
+*My comment: ${zen.comment}*
+What do you think?
+<!-- Zen Widget End -->`
 
 const zenWidgetRegex = /<!-- Zen Widget Start -->[\s\S]*?<!-- Zen Widget End -->/;
 
