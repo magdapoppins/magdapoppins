@@ -6,7 +6,10 @@ I'm Magda from Åbo, I'm 24 years old and I love bad word jokes. One of my colle
 My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about this cool thing called GitHub actions, so I descided to plant one here...
 
 <!-- Zen Widget Start -->
-
+#### Hourly Zen of Python (`>>> import this`) 🐍:
+Readability counts.
+*My comment: If it works but is unreadable 📖 it won't work in the long run.*
+What do you think?
 <!-- Zen Widget End -->
 
 
