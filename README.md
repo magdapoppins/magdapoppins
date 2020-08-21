@@ -1,16 +1,15 @@
-### Hi there 👋
+## .... . .-.. .-.. --- -.-.--
+<!--That is morse code for "Hello!"-->
+I'm Magda from Åbo, I'm 24 years old and I love bad word jokes.
 
-<!--
-**magdapoppins/magdapoppins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+I mostly love Python, but work as a fullsnacker with TypeScript as well. I thought I would include a Python goodie for you all, here it is!
 
-Here are some ideas to get you started:
+#### Reading the Zen of Python (`>>> import this`) 🐍:
+Sparse is better than dense.
+Pleasentness of reading counts. 🥞 Code is made for hoomans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Turku.py
+I am part of the [Turku.py](https://turkupy.github.io/) computer science community for women and non-binary humans. Feel free to get in touch and check out our events!
+
