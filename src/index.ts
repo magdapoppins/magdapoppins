@@ -7,9 +7,9 @@ const main = () => {
 
 const getZenText = (zen) => `<!-- Zen Widget Start -->
 #### Hourly Zen of Python (\`>>> import this\`) 🐍:
-${zen.zen}
-*My comment: ${zen.comment}*
-What do you think?
+${zen.zen}  
+*My comment: ${zen.comment}*  
+What do you think?  
 <!-- Zen Widget End -->`
 
 const zenWidgetRegex = /<!-- Zen Widget Start -->[\s\S]*?<!-- Zen Widget End -->/;

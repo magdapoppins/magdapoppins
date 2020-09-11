@@ -1,15 +1,15 @@
 ## 👋🏻 .... . .-.. .-.. --- -.-.--
 *That is morse code for "Hello!"*
 
-I'm Magda from Åbo, I'm 24 years old and I love bad word jokes. One of my collegues has taught me the habit of decorating adjectives with the "em" to make them into verbs (e.g. 'clear' => 'emclearem') so if you see this lingustic butchery going on in my pr:s, I'm sorry. My pronouns are she/her.
+I'm Magda from Åbo, I'm 24 years old and I love bad word jokes. One of my collegues has taught me the habit of decorating adjectives with the "em" to make them into verbs (e.g. `'clear'` => `'emclearem'`) so if you see this lingustic butchery going on in my pr's, I'm sorry. My pronouns are she/her.
 
 My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about this cool thing called GitHub actions, so I descided to plant one here...
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Readability counts.
-*My comment: If it works but is unreadable 📖 it won't work in the long run.*
-What do you think?
+There should be one-- and preferably only one --obvious way to do it. (Although that way may not be obvious at first unless you're Dutch.)  
+*My comment: Emeasen doing the right thing 🔨 and hard to do something stupid with the tools you build.*  
+What do you think?  
 <!-- Zen Widget End -->
 
 
