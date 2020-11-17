@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set env vars
-        run: |
-          echo ::set-env name=REPOSITORY::${{ github.repository }}
+        run: echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
+          # echo ::set-env name=REPOSITORY::${{ github.repository }}
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
