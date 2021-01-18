@@ -1,6 +1,8 @@
 ## 👋🏻 .... . .-.. .-.. --- -.-.--
 *That is morse code for "Hello!"*
 
+See a formal CV [here](https://magdapoppins.github.io/portfolio/).
+
 I'm Magda from Åbo, I'm 24 years old and I love bad word jokes. One of my collegues has taught me the habit of decorating adjectives with the "em" to make them into verbs (e.g. `'clear'` => `'emclearem'`) so if you see this lingustic butchery going on in my pr's, I'm sorry. My pronouns are she/her.
 
 My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about this cool thing called GitHub actions, so I descided to plant one here...
