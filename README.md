@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Beautiful is better than ugly.  
-*My comment: Try to write something beautiful 🌸 for me, that means readable, elegant, sensible code. Looking at it shouldn't hurt.*  
+Flat is better than nested.  
+*My comment: There are almost always ways to make things less nested. 🦜*  
 What do you think?  
 <!-- Zen Widget End -->
 
