@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Readability counts.  
-*My comment: If it works but is unreadable 📖 it won't work in the long run.*  
+In the face of ambiguity, refuse the temptation to guess.  
+*My comment: Emclarification along the way 🔍 tends to pay off.*  
 What do you think?  
 <!-- Zen Widget End -->
 
