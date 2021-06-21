@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Flat is better than nested.  
-*My comment: There are almost always ways to make things less nested. 🦜*  
+In the face of ambiguity, refuse the temptation to guess.  
+*My comment: Emclarification along the way 🔍 tends to pay off.*  
 What do you think?  
 <!-- Zen Widget End -->
 
