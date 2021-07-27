@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Beautiful is better than ugly.  
-*My comment: Try to write something beautiful 🌸 for me, that means readable, elegant, sensible code. Looking at it shouldn't hurt.*  
+Errors should never pass silently. Unless explicitly silenced.  
+*My comment: Better celebrate a failure now 🎂 than on a Friday after six pm.*  
 What do you think?  
 <!-- Zen Widget End -->
 
