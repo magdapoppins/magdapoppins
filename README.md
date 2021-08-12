@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Complex is better than complicated.  
-*My comment: Rather do a syntactic flex 🤹‍♀️ than a strange combination that achieves the same goal by some incomprehendable coincidance.*  
+Now is better than never. Although never is often better than *right* now.  
+*My comment: Do the needful 🛎 but pause and think for 10 seconds before pushing with --force.*  
 What do you think?  
 <!-- Zen Widget End -->
 
