@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Sparse is better than dense.  
-*My comment: Pleasentness of reading counts. 🥞 Code is made for hoomans.*  
+If the implementation is hard to explain, it's a bad idea.  
+*My comment: After some rethinking it might get easier to explain, though! 🦥*  
 What do you think?  
 <!-- Zen Widget End -->
 
