@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Sparse is better than dense.  
-*My comment: Pleasentness of reading counts. 🥞 Code is made for hoomans.*  
+Special cases aren't special enough to break the rules. - Although practicality beats purity.  
+*My comment: In finnish, we would call this pragmatic approach 'maalaisjärki' (using common sense). 🎻*  
 What do you think?  
 <!-- Zen Widget End -->
 
