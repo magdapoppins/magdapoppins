@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-In the face of ambiguity, refuse the temptation to guess.  
-*My comment: Emclarification along the way 🔍 tends to pay off.*  
+Special cases aren't special enough to break the rules. - Although practicality beats purity.  
+*My comment: In finnish, we would call this pragmatic approach 'maalaisjärki' (using common sense). 🎻*  
 What do you think?  
 <!-- Zen Widget End -->
 
