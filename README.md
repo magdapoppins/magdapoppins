@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Simple is better than complex.  
-*My comment: Only write what you need  🍎 in a way in which people can understand it like you meant.*  
+Errors should never pass silently. Unless explicitly silenced.  
+*My comment: Better celebrate a failure now 🎂 than on a Friday after six pm.*  
 What do you think?  
 <!-- Zen Widget End -->
 
