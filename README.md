@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Explicit is better than implicit.  
-*My comment: Name it like it is, add comments when needed. 🤺*  
+Complex is better than complicated.  
+*My comment: Rather do a syntactic flex 🤹‍♀️ than a strange combination that achieves the same goal by some incomprehendable coincidance.*  
 What do you think?  
 <!-- Zen Widget End -->
 
