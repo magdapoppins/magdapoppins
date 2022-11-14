@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Special cases aren't special enough to break the rules. - Although practicality beats purity.  
-*My comment: In finnish, we would call this pragmatic approach 'maalaisjärki' (using common sense). 🎻*  
+Flat is better than nested.  
+*My comment: There are almost always ways to make things less nested. 🦜*  
 What do you think?  
 <!-- Zen Widget End -->
 
