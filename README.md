@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Now is better than never. Although never is often better than *right* now.  
-*My comment: Do the needful 🛎 but pause and think for 10 seconds before pushing with --force.*  
+Flat is better than nested.  
+*My comment: There are almost always ways to make things less nested. 🦜*  
 What do you think?  
 <!-- Zen Widget End -->
 
