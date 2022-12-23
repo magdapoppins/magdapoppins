@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Explicit is better than implicit.  
-*My comment: Name it like it is, add comments when needed. 🤺*  
+Beautiful is better than ugly.  
+*My comment: Try to write something beautiful 🌸 for me, that means readable, elegant, sensible code. Looking at it shouldn't hurt.*  
 What do you think?  
 <!-- Zen Widget End -->
 
