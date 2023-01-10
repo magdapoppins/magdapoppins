@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Special cases aren't special enough to break the rules. - Although practicality beats purity.  
-*My comment: In finnish, we would call this pragmatic approach 'maalaisjärki' (using common sense). 🎻*  
+Namespaces are one honking great idea -- let's do more of those!  
+*My comment: 🍻 Python can be both scientific and well written! 🍻*  
 What do you think?  
 <!-- Zen Widget End -->
 
