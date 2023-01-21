@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Readability counts.  
-*My comment: If it works but is unreadable 📖 it won't work in the long run.*  
+Errors should never pass silently. Unless explicitly silenced.  
+*My comment: Better celebrate a failure now 🎂 than on a Friday after six pm.*  
 What do you think?  
 <!-- Zen Widget End -->
 
