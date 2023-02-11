@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Readability counts.  
-*My comment: If it works but is unreadable 📖 it won't work in the long run.*  
+Flat is better than nested.  
+*My comment: There are almost always ways to make things less nested. 🦜*  
 What do you think?  
 <!-- Zen Widget End -->
 
