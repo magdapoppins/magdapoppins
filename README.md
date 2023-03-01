@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-If the implementation is hard to explain, it's a bad idea.  
-*My comment: After some rethinking it might get easier to explain, though! 🦥*  
+Explicit is better than implicit.  
+*My comment: Name it like it is, add comments when needed. 🤺*  
 What do you think?  
 <!-- Zen Widget End -->
 
