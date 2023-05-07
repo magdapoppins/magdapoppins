@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Simple is better than complex.  
-*My comment: Only write what you need  🍎 in a way in which people can understand it like you meant.*  
+If the implementation is hard to explain, it's a bad idea.  
+*My comment: After some rethinking it might get easier to explain, though! 🦥*  
 What do you think?  
 <!-- Zen Widget End -->
 
