@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Errors should never pass silently. Unless explicitly silenced.  
-*My comment: Better celebrate a failure now 🎂 than on a Friday after six pm.*  
+There should be one-- and preferably only one --obvious way to do it. (Although that way may not be obvious at first unless you're Dutch.)  
+*My comment: Emeasen doing the right thing 🔨 and hard to do something stupid with the tools you build.*  
 What do you think?  
 <!-- Zen Widget End -->
 
