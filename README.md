@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Sparse is better than dense.  
-*My comment: Pleasentness of reading counts. 🥞 Code is made for hoomans.*  
+Namespaces are one honking great idea -- let's do more of those!  
+*My comment: 🍻 Python can be both scientific and well written! 🍻*  
 What do you think?  
 <!-- Zen Widget End -->
 
