@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Special cases aren't special enough to break the rules. - Although practicality beats purity.  
-*My comment: In finnish, we would call this pragmatic approach 'maalaisjärki' (using common sense). 🎻*  
+Now is better than never. Although never is often better than *right* now.  
+*My comment: Do the needful 🛎 but pause and think for 10 seconds before pushing with --force.*  
 What do you think?  
 <!-- Zen Widget End -->
 
