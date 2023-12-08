@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Now is better than never. Although never is often better than *right* now.  
-*My comment: Do the needful 🛎 but pause and think for 10 seconds before pushing with --force.*  
+Sparse is better than dense.  
+*My comment: Pleasentness of reading counts. 🥞 Code is made for hoomans.*  
 What do you think?  
 <!-- Zen Widget End -->
 
