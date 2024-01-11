@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-If the implementation is easy to explain, it may be a good idea.  
-*My comment: Maybe-good ideas are a good starting point! ❄️*  
+Errors should never pass silently. Unless explicitly silenced.  
+*My comment: Better celebrate a failure now 🎂 than on a Friday after six pm.*  
 What do you think?  
 <!-- Zen Widget End -->
 
