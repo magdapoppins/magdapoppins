@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Namespaces are one honking great idea -- let's do more of those!  
-*My comment: 🍻 Python can be both scientific and well written! 🍻*  
+Simple is better than complex.  
+*My comment: Only write what you need  🍎 in a way in which people can understand it like you meant.*  
 What do you think?  
 <!-- Zen Widget End -->
 
