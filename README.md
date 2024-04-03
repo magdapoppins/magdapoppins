@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-There should be one-- and preferably only one --obvious way to do it. (Although that way may not be obvious at first unless you're Dutch.)  
-*My comment: Emeasen doing the right thing 🔨 and hard to do something stupid with the tools you build.*  
+Beautiful is better than ugly.  
+*My comment: Try to write something beautiful 🌸 for me, that means readable, elegant, sensible code. Looking at it shouldn't hurt.*  
 What do you think?  
 <!-- Zen Widget End -->
 
