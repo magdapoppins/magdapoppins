@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Beautiful is better than ugly.  
-*My comment: Try to write something beautiful 🌸 for me, that means readable, elegant, sensible code. Looking at it shouldn't hurt.*  
+In the face of ambiguity, refuse the temptation to guess.  
+*My comment: Emclarification along the way 🔍 tends to pay off.*  
 What do you think?  
 <!-- Zen Widget End -->
 
