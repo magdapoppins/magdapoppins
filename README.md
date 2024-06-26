@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Complex is better than complicated.  
-*My comment: Rather do a syntactic flex 🤹‍♀️ than a strange combination that achieves the same goal by some incomprehendable coincidance.*  
+Flat is better than nested.  
+*My comment: There are almost always ways to make things less nested. 🦜*  
 What do you think?  
 <!-- Zen Widget End -->
 
