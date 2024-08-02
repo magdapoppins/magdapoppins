@@ -9,8 +9,8 @@ My friend [@eevajonnapanula](https://github.com/eevajonnapanula) told me about t
 
 <!-- Zen Widget Start -->
 #### Hourly Zen of Python (`>>> import this`) 🐍:
-Complex is better than complicated.  
-*My comment: Rather do a syntactic flex 🤹‍♀️ than a strange combination that achieves the same goal by some incomprehendable coincidance.*  
+If the implementation is hard to explain, it's a bad idea.  
+*My comment: After some rethinking it might get easier to explain, though! 🦥*  
 What do you think?  
 <!-- Zen Widget End -->
 
